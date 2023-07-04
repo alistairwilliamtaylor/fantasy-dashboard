@@ -1,6 +1,6 @@
 import draftBoardImage from "./prettydraftboard.jpeg";
-import SimpleAccordion from "./LinksAccordion";
-import MediaCard from "./MediaCard";
+import SimpleAccordion from "../LinksAccordion";
+import MediaCard from "../components/MediaCard";
 
 const DraftBoardsCard = () => {
   return (

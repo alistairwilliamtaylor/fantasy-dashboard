@@ -1,6 +1,6 @@
 import keepersImage from "./keepers.jpeg";
-import SimpleAccordion from "./LinksAccordion";
-import MediaCard from "./MediaCard";
+import MediaCard from "../components/MediaCard";
+import links from "./linksKeepers";
 
 const KeepersCard = () => {
   return (
@@ -9,7 +9,7 @@ const KeepersCard = () => {
       imageTitle="Keepers file in clipboard"
       heading="Keepers"
       text="Keeper eligibility overview"
-      accordion={<SimpleAccordion />}
+      links={links}
     />
   );
 };

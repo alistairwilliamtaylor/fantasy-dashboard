@@ -1,16 +1,16 @@
-import AGMCard from "./AGMCard";
-// import KeepersCard from "./KeepersCard";
+import AGMCard from "./AGM/AGMCard";
+import KeepersCard from "./Keepers/KeepersCard";
 // import DraftBoardsCard from "./DraftsCard";
-// import ConstitutionCard from "./ConstitutionCard";
+import ConstitutionCard from "./Constitution/ConstitutionCard";
 import "./App.css";
 
 function App() {
   return (
     <>
       <AGMCard />
-      {/* <KeepersCard />
+      <KeepersCard />
       <ConstitutionCard />
-      <DraftBoardsCard /> */}
+      {/* <DraftBoardsCard /> */}
     </>
   );
 }

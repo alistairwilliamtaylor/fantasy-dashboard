@@ -1,6 +1,7 @@
 import constitutionImage from "./constitution.jpeg";
-import SimpleAccordion from "./LinksAccordion";
-import MediaCard from "./MediaCard";
+import MediaCard from "../components/MediaCard";
+import links from "./linksConstitution";
+
 
 const ConstitutionCard = () => {
   return (
@@ -9,7 +10,7 @@ const ConstitutionCard = () => {
       imageTitle="An image of the American constitution"
       heading="Constitution"
       text="The venerable document itself"
-      accordion={<SimpleAccordion />}
+      links={links}
     />
   );
 };

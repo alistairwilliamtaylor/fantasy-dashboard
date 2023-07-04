@@ -6,17 +6,14 @@ import ListItemText from "@mui/material/ListItemText";
 import { Launch } from "@mui/icons-material";
 
 const BasicListItem = ({ href, label }) => (
-    <ListItem disablePadding>
-        <ListItemButton
-        component="a"
-        href={href}
-        >
-            <ListItemIcon>
-                <Launch />
-            </ListItemIcon>
-            <ListItemText primary={label} />
-        </ListItemButton>
-    </ListItem>
-)
+  <ListItem disablePadding>
+    <ListItemButton component="a" href={href} target="_blank">
+      <ListItemIcon>
+        <Launch />
+      </ListItemIcon>
+      <ListItemText primary={label} />
+    </ListItemButton>
+  </ListItem>
+);
 
-export default BasicListItem
+export default BasicListItem;

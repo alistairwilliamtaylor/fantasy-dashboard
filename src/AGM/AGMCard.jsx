@@ -1,5 +1,5 @@
 import courthouseImage from "./courthouse.png";
-import MediaCard from "./MediaCard";
+import MediaCard from "../components/MediaCard";
 import links from "./linksAGM";
 
 const AGMCard = () => {
