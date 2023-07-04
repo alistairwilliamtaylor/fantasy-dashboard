@@ -1,5 +1,5 @@
 import keepersImage from "./keepers.jpeg";
-import SimpleAccordion from "./SimpleAccordion";
+import SimpleAccordion from "./LinksAccordion";
 import MediaCard from "./MediaCard";
 
 const KeepersCard = () => {

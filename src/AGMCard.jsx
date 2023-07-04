@@ -1,7 +1,6 @@
 import courthouseImage from "./courthouse.png";
 import MediaCard from "./MediaCard";
-import AGMList from "./AGMList";
-import SimpleAccordion from "./SimpleAccordion";
+import links from "./linksAGM";
 
 const AGMCard = () => {
   return (
@@ -10,7 +9,7 @@ const AGMCard = () => {
       imageTitle="The courthouse hotel, Marrickville"
       heading="AGM"
       text="AGM Agendas and Minutes"
-      accordion={<SimpleAccordion details={<AGMList />} />}
+      links={links}
     />
   );
 };

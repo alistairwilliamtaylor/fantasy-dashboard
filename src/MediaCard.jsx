@@ -4,13 +4,14 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
+import LinksAccordion from './LinksAccordion'
 
 export default function MediaCard({
   image,
   imageTitle,
   heading,
   text,
-  accordion,
+  links,
 }) {
   return (
     <Box sx={{ mb: 2 }}>
@@ -24,7 +25,7 @@ export default function MediaCard({
             {text}
           </Typography>
         </CardContent>
-        {accordion}
+        <LinksAccordion links={links}/>
       </Card>
     </Box>
   );
