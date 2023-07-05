@@ -1,6 +1,6 @@
 import AGMCard from "./AGM/AGMCard";
 import KeepersCard from "./Keepers/KeepersCard";
-// import DraftBoardsCard from "./DraftsCard";
+import DraftBoardsCard from "./Drafts/DraftsCard";
 import CurrentInfo from "./CurrentInfo";
 import ConstitutionCard from "./Constitution/ConstitutionCard";
 import { Box } from "@mui/material";
@@ -12,7 +12,7 @@ function App() {
       <AGMCard />
       <KeepersCard />
       <ConstitutionCard />
-      {/* <DraftBoardsCard /> */}
+      <DraftBoardsCard />
     </Box>
   );
 }

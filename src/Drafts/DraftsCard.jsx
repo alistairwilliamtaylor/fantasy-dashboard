@@ -1,6 +1,6 @@
 import draftBoardImage from "./prettydraftboard.jpeg";
-import SimpleAccordion from "../LinksAccordion";
 import MediaCard from "../components/MediaCard";
+import links from "./linksDrafts";
 
 const DraftBoardsCard = () => {
   return (
@@ -9,9 +9,9 @@ const DraftBoardsCard = () => {
       imageTitle="Fantasy football draft board"
       heading="Draft Boards"
       text="Historical Draft Boards"
-      accordion={<SimpleAccordion />}
+      links={links}
     />
   );
 };
 
-export default DraftBoardsCard;
+export default DraftBoardsCard
