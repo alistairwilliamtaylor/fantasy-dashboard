@@ -25,7 +25,7 @@ export default function MediaCard({
             {text}
           </Typography>
         </CardContent>
-        <LinksAccordion links={links}/>
+          <LinksAccordion links={links}/>
       </Card>
     </Box>
   );
