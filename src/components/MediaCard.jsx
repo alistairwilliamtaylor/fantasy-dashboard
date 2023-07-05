@@ -14,7 +14,7 @@ export default function MediaCard({
   links,
 }) {
   return (
-    <Box sx={{ mb: 2 }}>
+    <Box sx={{ mb: 5 }}>
       <Card sx={{ width: 360 }}>
         <CardMedia sx={{ height: 140 }} image={image} title={imageTitle} />
         <CardContent>

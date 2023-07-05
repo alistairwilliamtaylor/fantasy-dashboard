@@ -9,7 +9,7 @@ import {
 } from "@mui/material";
 
 const CurrentInfo = () => (
-  <Box sx={{ mb: 2 }}>
+  <Box sx={{ mb: 5 }}>
     <Card sx={{ width: 360 }}>
       <Alert severity="info">
         <AlertTitle>AGM proposals are open!</AlertTitle>
