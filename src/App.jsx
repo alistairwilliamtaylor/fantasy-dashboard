@@ -7,7 +7,7 @@ import { Box } from "@mui/material";
 
 function App() {
   return (
-    <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+    <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', mt: 10, mb: 20}}>
       <CurrentInfo />
       <AGMCard />
       <KeepersCard />
