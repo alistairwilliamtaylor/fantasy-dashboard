@@ -11,23 +11,28 @@ import {
 const CurrentInfo = () => (
   <Box sx={{ mb: 5 }}>
     <Card sx={{ width: 360 }}>
-      <Alert severity="info">
-        <AlertTitle>AGM proposals are open!</AlertTitle>
-        Please contribute <Link href="https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA">here</Link>
+      <Alert severity="warning">
+        <AlertTitle>Online voting is open!</AlertTitle>
+        <Typography gutterBottom variant="body2" color="text.secondary">
+          Do note vote online if you plan to vote in-person at AGM
+        </Typography>
+        <Typography gutterBottom variant="body2" color="text.secondary">
+          One vote per team - most recent vote will count if multiple owners vote
+        </Typography>
+        <Typography gutterBottom variant="body2" color="text.secondary">
+          You can only vote once, and cannot edit your vote once submitted
+        </Typography>
       </Alert>
       <CardContent>
         <Typography gutterBottom variant="body2" color="text.secondary">
-          <strong>Friday 14th July</strong> - AGM proposals close
-        </Typography>
-        <Typography gutterBottom variant="body2" color="text.secondary">
-          <strong>Sunday 16th July</strong> - Online voting opens
+          Please vote{" "}
+          <Link href="https://forms.gle/bgPrVfdh8EXiFNnXA">here</Link>
         </Typography>
         <Typography gutterBottom variant="body2" color="text.secondary">
           <strong>Saturday 22nd July</strong> - Online voting closes
         </Typography>
         <Typography gutterBottom variant="body2" color="text.secondary">
-          <strong>Sunday 23rd July 12:00</strong> - AGM at the
-          Courthouse
+          <strong>Sunday 23rd July 12:00</strong> - AGM at the Courthouse
         </Typography>
       </CardContent>
     </Card>
