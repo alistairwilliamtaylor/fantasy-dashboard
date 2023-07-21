@@ -29,6 +29,10 @@ const CurrentInfo = () => (
           <Link href="https://forms.gle/bgPrVfdh8EXiFNnXA">here</Link>
         </Typography>
         <Typography gutterBottom variant="body2" color="text.secondary">
+          Womens World Cup Results for draft order {" "}
+          <Link href="https://docs.google.com/spreadsheets/d/17PiF7QvpEOw8xaTWCN4GYLJM0-AB4Lx5qrbcmLySZUE/edit?usp=drive_web&ouid=116300514392742136833">here</Link>
+        </Typography>
+        <Typography gutterBottom variant="body2" color="text.secondary">
           <strong>Saturday 22nd July</strong> - Online voting closes
         </Typography>
         <Typography gutterBottom variant="body2" color="text.secondary">
