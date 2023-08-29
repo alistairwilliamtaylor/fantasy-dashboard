@@ -22,6 +22,10 @@ const links = [
     {
         label: "2018 Draft",
         href: "https://docs.google.com/spreadsheets/d/1oT82SD2BRACehVheg50eoCtPrqVJvmOavkyx0jIrhOQ/edit#gid=0",
+    },
+    {
+        label: "2017 Draft",
+        href: "https://docs.google.com/spreadsheets/d/1hMGax1Wa8cRGL5Mxz8lpa7qDd7u_GU9CCkbOXKrGvNA/edit#gid=237276348",
     }
 ];
   
