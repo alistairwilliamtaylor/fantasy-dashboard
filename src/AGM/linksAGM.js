@@ -4,7 +4,7 @@ const links = [
         href:'https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA/edit?gid=1092398144#gid=1092398144',
     },
     {
-        label:"AGM Results 2023",
+        label:"AGM Minutes 2023",
         href:'https://docs.google.com/document/d/1GE61wBqXeEGwYGtLNrAILpO1ZVfz_ynpP1dXufO4yKo/edit#heading=h.au0raltd1hdn',
     },
     {
@@ -20,8 +20,16 @@ const links = [
         href:'https://docs.google.com/spreadsheets/d/1q61n010bwsfhh1cjwJsVdFBfRc5Enp9y7wFwu3sw7Z4/edit?usp=sharing',
     },
     {
+        label:"AGM Minutes 2022",
+        href:'https://docs.google.com/document/d/1GKPzDf4KHIiEfV1bXp7oaXfHgaQ4ipKL00EamzJVUiE/edit',
+    },
+    {
         label:"AGM proposals 2022",
         href:'https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA/edit#gid=0',
+    },
+    {
+        label:"AGM Minutes 2021",
+        href:'https://docs.google.com/document/d/1-qyTV2dF7fH62IZ0sgOEg8_nLDcYzs2uXvkb3_k8N7U/edit',
     },
     {
         label:"AGM proposals 2021",
