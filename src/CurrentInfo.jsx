@@ -17,7 +17,7 @@ const CurrentInfo = () => (
       <CardContent>
         <Typography gutterBottom variant="body2" color="text.secondary">
           <strong>
-            Keeper list for 2024 here{" "}
+            Keeper list for 2024 {" "}
             <Link href="https://docs.google.com/spreadsheets/d/1hVJketd8ZBypAq3phyB_GZnVv0AclgTdzR6tJMMeYWg/edit?gid=0#gid=0">here</Link>
           </strong>  
         </Typography>
