@@ -12,6 +12,10 @@ const links = [
         href:'https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA',
     },
     {
+        label:"AGM Form 2023",
+        href:'https://docs.google.com/forms/d/e/1FAIpQLSdXkinzyAvLBU3aimGjDXHK5KgulsWBc2jbIEqD85Crtx2Gyg/viewform',
+    },
+    {
         label:"AGM Online Form Responses 2023",
         href:'https://docs.google.com/spreadsheets/d/1q61n010bwsfhh1cjwJsVdFBfRc5Enp9y7wFwu3sw7Z4/edit?usp=sharing',
     },
