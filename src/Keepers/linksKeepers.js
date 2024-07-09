@@ -1,6 +1,6 @@
 const links = [
   {
-    label: "Keeper List 2024 - WIP",
+    label: "Keeper List 2024",
     href: "https://docs.google.com/spreadsheets/d/1hVJketd8ZBypAq3phyB_GZnVv0AclgTdzR6tJMMeYWg/edit#gid=0",
   },
   {
