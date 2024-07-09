@@ -4,6 +4,10 @@ const links = [
         href:'https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA/edit?gid=1092398144#gid=1092398144',
     },
     {
+        label:"AGM Results 2023",
+        href:'https://docs.google.com/document/d/1GE61wBqXeEGwYGtLNrAILpO1ZVfz_ynpP1dXufO4yKo/edit#heading=h.au0raltd1hdn',
+    },
+    {
         label:"AGM proposals 2023",
         href:'https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA',
     },
