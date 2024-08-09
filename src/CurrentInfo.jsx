@@ -17,6 +17,12 @@ const CurrentInfo = () => (
       <CardContent>
         <Typography gutterBottom variant="body2" color="text.secondary">
           <strong>
+            Draft Board for 2024 - now with draft order! {" "}
+            <Link href="https://docs.google.com/spreadsheets/d/1OZxtI27qPalG40DtMY9OVkUTOw9OsTnCbTRQfvFGSCk/edit?gid=0#gid=0">here</Link>
+          </strong>  
+        </Typography>
+        <Typography gutterBottom variant="body2" color="text.secondary">
+          <strong>
             Keeper list for 2024 {" "}
             <Link href="https://docs.google.com/spreadsheets/d/1hVJketd8ZBypAq3phyB_GZnVv0AclgTdzR6tJMMeYWg/edit?gid=0#gid=0">here</Link>
           </strong>  
