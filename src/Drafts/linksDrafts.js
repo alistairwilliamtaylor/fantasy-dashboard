@@ -1,5 +1,9 @@
 const links = [
     {
+        label: "2024 Draft",
+        href: "https://docs.google.com/spreadsheets/d/1OZxtI27qPalG40DtMY9OVkUTOw9OsTnCbTRQfvFGSCk/edit?gid=0#gid=0",
+    },
+    {
         label: "2023 Draft",
         href: "https://docs.google.com/spreadsheets/d/1mmyhPBC18M2yO2zjLB6ETkq0tBSDCYiWYLKw3icbxKE/edit#gid=0",
     },
