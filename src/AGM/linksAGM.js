@@ -1,6 +1,6 @@
 const links = [
     {
-        label:"AGM proposals 2024",
+        label:"AGM proposals and results 2024",
         href:'https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA/edit?gid=1092398144#gid=1092398144',
     },
     {
