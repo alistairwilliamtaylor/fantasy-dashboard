@@ -15,28 +15,17 @@ const CurrentInfo = () => (
         <AlertTitle>Get Ready for the 2024 Season!</AlertTitle>
       </Alert>
       <CardContent>
+
         <Typography gutterBottom variant="body2" color="text.secondary">
           <strong>
-            Draft Board for 2024 - now with draft order! {" "}
-            <Link href="https://docs.google.com/spreadsheets/d/1OZxtI27qPalG40DtMY9OVkUTOw9OsTnCbTRQfvFGSCk/edit?gid=0#gid=0">here</Link>
-          </strong>  
-        </Typography>
-        <Typography gutterBottom variant="body2" color="text.secondary">
-          <strong>
-            Keeper list for 2024 {" "}
-            <Link href="https://docs.google.com/spreadsheets/d/1hVJketd8ZBypAq3phyB_GZnVv0AclgTdzR6tJMMeYWg/edit?gid=0#gid=0">here</Link>
-          </strong>  
-        </Typography>
-        <Typography gutterBottom variant="body2" color="text.secondary">
-          <strong>
-            AGM proposals 2024 {" "}
-            <Link href="https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA/edit?gid=1092398144#gid=1092398144">here</Link>
+            AGM proposals 2025 {" "}
+            <Link href="https://docs.google.com/spreadsheets/d/1IyPR-2wBNFr-JoTLk2HOzV8UeoHqUE9XEXwD3BMBmSA/edit?gid=904701143#gid=904701143">here</Link>
           </strong>
         </Typography>
         <Typography gutterBottom variant="body2" color="text.secondary">
           <strong>
-            Updated Constitution (with AGM 2023 tings!){" "}
-            <Link href="https://docs.google.com/document/d/1WTv6wyyhCLDl3IZdLQZoemQmArVeP3whRqmrmD9foHI/edit">here</Link>
+            Secret Link to league history{" "}
+            <Link href="https://fantasy.nfl.com/league/1078038/history/">here</Link>
           </strong>  
         </Typography>
       </CardContent>
