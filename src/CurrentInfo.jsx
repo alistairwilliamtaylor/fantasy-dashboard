@@ -11,11 +11,7 @@ import {
 const CurrentInfo = () => (
   <Box sx={{ mb: 5 }}>
     <Card sx={{ width: 360 }}>
-      <Alert severity="warning">
-        <AlertTitle>Get Ready for the 2024 Season!</AlertTitle>
-      </Alert>
       <CardContent>
-
         <Typography gutterBottom variant="body2" color="text.secondary">
           <strong>
             AGM proposals 2025 {" "}
